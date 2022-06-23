@@ -243,9 +243,9 @@ let numbers = [1, 2, 3, 4];
 
 // console.log("--------Ques------------------------------");
 
-function isColorValid(color) {
-  return color === "blue" || color === "green" ? 0 : 1;
-}
+// function isColorValid(color) {
+//   return color === "blue" || color === "green" ? 0 : 1;
+// }
 
-console.log(isColorValid("red"));
-console.log(isColorValid("green"));
+// console.log(isColorValid("red"));
+// console.log(isColorValid("green"));
